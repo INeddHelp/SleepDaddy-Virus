@@ -10,6 +10,6 @@ No, it only works on windows
 #
 - How can i use this virus?
 #
-Download the file index.bat from https://github.com/INeddHelp/Viruses/tree/master/SleppDaddy and run it, it will automatically download the file i shared in this repository.
+First off read the Securety Policy. Then download the file index.bat and execute it. It will automaticly download another file from https://gist.github.com/INeddHelp/71d5cef5935055810bf338f97c3e8605/raw/sleepdaddy.bat
 #
 P.S. Check out my Viruses repository https://github.com/INeddHelp/Viruses
